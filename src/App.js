@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      
+      <h1>My super cool MTG app</h1>
     </div>
   );
 }
